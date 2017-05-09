@@ -10,7 +10,7 @@
 
 General relationships for connecting data, services, libraries and users.
 
-![](img/structure.png)
+![](img/structure.PNG)
 
 ------
 
@@ -18,11 +18,11 @@ General relationships for connecting data, services, libraries and users.
 
 Example for our web-services
 
-![](img/layout.png)
+![](img/layout.PNG)
 
 ## **Other potential visualization**
 
-![](img/output.png)
+![](img/output.PNG)
 
 
 
